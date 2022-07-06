@@ -523,6 +523,10 @@ footer {
   width: 16rem;
 }
 
+.email_input {
+  position: relative;
+}
+
 .email_add {
   border: 1px solid #ffffff;
   border-radius: 4px;
@@ -538,8 +542,8 @@ footer {
 
 .arrow {
   position: absolute;
-  margin-left: -37px;
-  margin-top: 3px;
+  right: 3px;
+  bottom: 15px;
 }
 
 /* drop_down  */

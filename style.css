@@ -540,6 +540,10 @@ footer {
   color: var(--whiteColor);
 }
 
+.email_input {
+  position: relative;
+}
+
 .arrow {
   position: absolute;
   right: 3px;

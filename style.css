@@ -536,10 +536,14 @@ footer {
   color: var(--whiteColor);
 }
 
+.email_input {
+  position: relative;
+}
+
 .arrow {
   position: absolute;
-  margin-left: -37px;
-  margin-top: 3px;
+  right: 3px;
+  bottom: 15px;
 }
 
 /* drop_down  */
